@@ -1,4 +1,4 @@
-# Fiscus – Global Economic & News Intelligence Platform
+# Fiscus – Economic Intelligence & Data Analytics Platform
 
 ## Overview
 
@@ -116,6 +116,7 @@ Visualizes economic trends, sentiment movement, correlations, anomaly alerts, an
 
 ### Machine Learning
 • Scikit-learn  
+• SHAP (Explainable AI / Model Interpretability)
 
 ### NLP
 • NLTK  
